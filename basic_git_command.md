@@ -19,4 +19,4 @@ hello-git 폴더 안의 README.md파일에 예시와 같이 `- 이름 또는 닉
 자신의 깃 계정을 로그인하고 Authorize GitCredentialManager를 눌러주세요.  
 마침내 여러분들이 작업하신 것들이 깃에 저장되었습니다. 게임으로 치면 세이브 포인트 입니다.  
   
-그 세이브 포인트를 다른 공동 작업자들에게 공유하는 것이 Pull requests입니다.
+그 세이브 포인트(작업)를 다른 공동 작업자들에게 병합하는 것이 Pull requests 또는 (MR)Merge requests 입니다.
